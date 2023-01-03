@@ -26,6 +26,11 @@ Provide a short description explaining the what, why, and how of your project. U
 - Christian Placensiad
 - Ervin Dassart
 
+## My Contributions
+- Created a Password Generator for the sign in option.
+- Added a drop down feature to the cart section of the page
+- Added a list of Cell Phones for purchase
+
 
 ## Badges
 
